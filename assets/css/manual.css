@@ -1,0 +1,22 @@
+.container-control{
+    background: blueviolet;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+}
+.align-right{
+text-align: right;
+}
+.float-left{
+    float: left;
+    margin-right: 10px;
+}
+.img-control{
+    height: 200px;
+    width: 300px;
+   
+}
+.textarea-control{
+    width: 100% ;
+    height: 150px;
+}
